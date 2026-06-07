@@ -1,0 +1,3 @@
+[submodule "game_masters"]
+	path = game_masters
+	url = https://github.com/PokeMiners/game_masters.git
