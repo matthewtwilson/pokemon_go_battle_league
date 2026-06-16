@@ -8,8 +8,7 @@
       "ivStamina": 13
     },
     "league": 500
-  }
-  ,
+  },
   {
     "name": "WHIMSICOTT",
     "stats": {
@@ -18,8 +17,7 @@
       "ivStamina": 8
     },
     "league": 500
-  }
-  ,
+  },
   {
     "name": "WHIMSICOTT",
     "stats": {
@@ -28,8 +26,7 @@
       "ivStamina": 11
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "WHIMSICOTT",
     "stats": {
@@ -38,8 +35,47 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "COTTONEE",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500,
+    "form": "flower"
+  },
+  {
+    "name": "WHIMSICOTT",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500,
+    "form": "flower"
+  },
+  {
+    "name": "WHIMSICOTT",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 1500,
+    "form": "flower"
+  },
+  {
+    "name": "WHIMSICOTT",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 13,
+      "ivStamina": 15
+    },
+    "league": 8000,
+    "form": "flower"
+  },
   {
     "name": "SKARMORY",
     "stats": {
@@ -23769,6 +23805,42 @@
       "ivAttack": 14,
       "ivDefense": 14,
       "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "SIZZLIPEDE",
+    "stats": {
+      "ivAttack": 10,
+      "ivDefense": 14,
+      "ivStamina": 14
+    },
+    "league": 500
+  },
+  {
+    "name": "CENTISKORCH",
+    "stats": {
+      "ivAttack": 10,
+      "ivDefense": 13,
+      "ivStamina": 13
+    },
+    "league": 1500
+  },
+  {
+    "name": "CENTISKORCH",
+    "stats": {
+      "ivAttack": 6,
+      "ivDefense": 15,
+      "ivStamina": 10
+    },
+    "league": 2500
+  },
+  {
+    "name": "CENTISKORCH",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 14,
+      "ivStamina": 14
     },
     "league": 8000
   }
