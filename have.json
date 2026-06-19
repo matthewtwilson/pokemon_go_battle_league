@@ -738,9 +738,9 @@
   {
     "name": "WYNAUT",
     "stats": {
-      "ivAttack": 12,
+      "ivAttack": 10,
       "ivDefense": 15,
-      "ivStamina": 14
+      "ivStamina": 13
     },
     "league": 500
   },
@@ -3231,8 +3231,8 @@
     "name": "CROBAT",
     "stats": {
       "ivAttack": 15,
-      "ivDefense": 13,
-      "ivStamina": 14
+      "ivDefense": 14,
+      "ivStamina": 15
     },
     "league": 8000,
     "form": "shadow"
@@ -16704,9 +16704,9 @@
   {
     "name": "OBSTAGOON",
     "stats": {
-      "ivAttack": 0,
-      "ivDefense": 15,
-      "ivStamina": 2
+      "ivAttack": 1,
+      "ivDefense": 14,
+      "ivStamina": 12
     },
     "league": 1500
   }
@@ -16725,7 +16725,7 @@
     "name": "OBSTAGOON",
     "stats": {
       "ivAttack": 15,
-      "ivDefense": 14,
+      "ivDefense": 15,
       "ivStamina": 15
     },
     "league": 8000
@@ -18704,9 +18704,9 @@
   {
     "name": "RUNERIGUS",
     "stats": {
-      "ivAttack": 11,
-      "ivDefense": 14,
-      "ivStamina": 13
+      "ivAttack": 10,
+      "ivDefense": 13,
+      "ivStamina": 15
     },
     "league": 2500
   }
@@ -23466,27 +23466,27 @@
   {
     "name": "YAMPER",
     "stats": {
-      "ivAttack": 2,
-      "ivDefense": 2,
-      "ivStamina": 15
+      "ivAttack": 1,
+      "ivDefense": 14,
+      "ivStamina": 7
     },
     "league": 500
   },
   {
     "name": "BOLTUND",
     "stats": {
-      "ivAttack": 1,
-      "ivDefense": 14,
-      "ivStamina": 7
+      "ivAttack": 0,
+      "ivDefense": 15,
+      "ivStamina": 14
     },
     "league": 1500
   },
   {
     "name": "BOLTUND",
     "stats": {
-      "ivAttack": 14,
-      "ivDefense": 12,
-      "ivStamina": 12
+      "ivAttack": 15,
+      "ivDefense": 15,
+      "ivStamina": 15
     },
     "league": 8000
   },
