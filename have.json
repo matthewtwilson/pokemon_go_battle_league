@@ -766,9 +766,9 @@
   {
     "name": "WOBBUFFET",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 1,
+      "ivDefense": 14,
+      "ivStamina": 13
     },
     "league": 500,
     "form": "shadow"
@@ -6001,9 +6001,9 @@
   {
     "name": "WOOPER",
     "stats": {
-      "ivAttack": 8,
+      "ivAttack": 1,
       "ivDefense": 15,
-      "ivStamina": 9
+      "ivStamina": 12
     },
     "league": 500
   },
@@ -6037,9 +6037,9 @@
   {
     "name": "CLODSIRE",
     "stats": {
-      "ivAttack": 8,
+      "ivAttack": 0,
       "ivDefense": 12,
-      "ivStamina": 15
+      "ivStamina": 13
     },
     "league": 1500
   },
@@ -15060,28 +15060,44 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
+  {
+    "name": "EKANS",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 15,
+      "ivStamina": 13
+    },
+    "league": 500
+  },
   {
     "name": "ARBOK",
     "stats": {
-      "ivAttack": 6,
-      "ivDefense": 15,
+      "ivAttack": 0,
+      "ivDefense": 11,
       "ivStamina": 14
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "ARBOK",
     "stats": {
       "ivAttack": 15,
       "ivDefense": 15,
-      "ivStamina": 14
+      "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "EKANS",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500,
+    "form": "shadow"
+  },
   {
     "name": "ARBOK",
     "stats": {
@@ -15091,8 +15107,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "ARBOK",
     "stats": {
@@ -18019,7 +18034,7 @@
   {
     "name": "DUBWOOL",
     "stats": {
-      "ivAttack": 2,
+      "ivAttack": 3,
       "ivDefense": 14,
       "ivStamina": 12
     },
@@ -20488,8 +20503,7 @@
       "ivStamina": 12
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "GOLISOPOD",
     "stats": {
@@ -20498,8 +20512,7 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "GOLISOPOD",
     "stats": {
@@ -20508,8 +20521,7 @@
       "ivStamina": 14
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "GOLISOPOD",
     "stats": {
@@ -20518,8 +20530,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "SIMISEAR",
     "stats": {
@@ -23841,6 +23852,51 @@
       "ivAttack": 14,
       "ivDefense": 14,
       "ivStamina": 14
+    },
+    "league": 8000
+  },
+  {
+    "name": "FRIGIBAX",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
+  {
+    "name": "ARCTIBAX",
+    "stats": {
+      "ivAttack": 2,
+      "ivDefense": 15,
+      "ivStamina": 9
+    },
+    "league": 1500
+  },
+  {
+    "name": "BAXCALIBUR",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 1500
+  },
+  {
+    "name": "BAXCALIBUR",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 2500
+  },
+  {
+    "name": "BAXCALIBUR",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 0,
+      "ivStamina": 0
     },
     "league": 8000
   }
