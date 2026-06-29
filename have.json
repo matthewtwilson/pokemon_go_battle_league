@@ -12,18 +12,9 @@
   {
     "name": "WHIMSICOTT",
     "stats": {
-      "ivAttack": 4,
-      "ivDefense": 11,
-      "ivStamina": 8
-    },
-    "league": 500
-  },
-  {
-    "name": "WHIMSICOTT",
-    "stats": {
-      "ivAttack": 2,
-      "ivDefense": 14,
-      "ivStamina": 11
+      "ivAttack": 0,
+      "ivDefense": 15,
+      "ivStamina": 14
     },
     "league": 1500
   },
@@ -39,9 +30,9 @@
   {
     "name": "COTTONEE",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 13,
+      "ivDefense": 10,
+      "ivStamina": 15
     },
     "league": 500,
     "form": "flower"
@@ -49,19 +40,9 @@
   {
     "name": "WHIMSICOTT",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
-    },
-    "league": 500,
-    "form": "flower"
-  },
-  {
-    "name": "WHIMSICOTT",
-    "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 13,
+      "ivDefense": 10,
+      "ivStamina": 5
     },
     "league": 1500,
     "form": "flower"
@@ -1334,8 +1315,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "SCRAFTY",
     "stats": {
@@ -1344,8 +1324,7 @@
       "ivStamina": 12
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "SCRAFTY",
     "stats": {
@@ -1354,8 +1333,7 @@
       "ivStamina": 15
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "SCRAFTY",
     "stats": {
@@ -1364,8 +1342,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "TURTWIG",
     "stats": {
@@ -1374,8 +1351,7 @@
       "ivStamina": 10
     },
     "league": 500
-  }
-  ,
+  },
   {
     "name": "GROTLE",
     "stats": {
@@ -1384,8 +1360,7 @@
       "ivStamina": 12
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "TORTERRA",
     "stats": {
@@ -1394,8 +1369,7 @@
       "ivStamina": 14
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "TORTERRA",
     "stats": {
@@ -1404,8 +1378,7 @@
       "ivStamina": 13
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "TORTERRA",
     "stats": {
@@ -1414,19 +1387,17 @@
       "ivStamina": 14
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "TURTWIG",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 4,
+      "ivDefense": 14,
+      "ivStamina": 6
     },
     "league": 500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "GROTLE",
     "stats": {
@@ -1436,8 +1407,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "TORTERRA",
     "stats": {
@@ -1447,19 +1417,17 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "TORTERRA",
     "stats": {
-      "ivAttack": 7,
-      "ivDefense": 5,
-      "ivStamina": 6
+      "ivAttack": 14,
+      "ivDefense": 14,
+      "ivStamina": 10
     },
     "league": 2500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "TORTERRA",
     "stats": {
@@ -1469,8 +1437,7 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "FLYGON",
     "stats": {
@@ -1479,8 +1446,7 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "FLYGON",
     "stats": {
@@ -1489,8 +1455,7 @@
       "ivStamina": 13
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "FLYGON",
     "stats": {
@@ -1499,8 +1464,47 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "TRAPINCH",
+    "stats": {
+      "ivAttack": 12,
+      "ivDefense": 10,
+      "ivStamina": 12
+    },
+    "league": 500,
+    "form": "shadow"
+  },
+  {
+    "name": "FLYGON",
+    "stats": {
+      "ivAttack": 2,
+      "ivDefense": 8,
+      "ivStamina": 9
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
+    "name": "FLYGON",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 9,
+      "ivStamina": 11
+    },
+    "league": 2500,
+    "form": "shadow"
+  },
+  {
+    "name": "FLYGON",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 11,
+      "ivStamina": 15
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
   {
     "name": "GARBODOR",
     "stats": {
@@ -2257,8 +2261,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "NINETALES",
     "stats": {
@@ -2268,8 +2271,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "NINETALES",
     "stats": {
@@ -2279,8 +2281,7 @@
     },
     "league": 2500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "NINETALES",
     "stats": {
@@ -2290,8 +2291,7 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "NINETALES",
     "stats": {
@@ -2354,8 +2354,8 @@
   {
     "name": "NINETALES_ALOLA",
     "stats": {
-      "ivAttack": 5,
-      "ivDefense": 15,
+      "ivAttack": 2,
+      "ivDefense": 6,
       "ivStamina": 15
     },
     "league": 1500,
@@ -2374,9 +2374,9 @@
   {
     "name": "NINETALES_ALOLA",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 3,
-      "ivStamina": 12
+      "ivAttack": 14,
+      "ivDefense": 12,
+      "ivStamina": 4
     },
     "league": 8000,
     "form": "shadow"
@@ -9640,9 +9640,9 @@
   {
     "name": "TAILLOW",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 1,
+      "ivDefense": 14,
+      "ivStamina": 7
     },
     "league": 500,
     "form": "shadow"
@@ -9650,9 +9650,9 @@
   {
     "name": "SWELLOW",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 3,
+      "ivDefense": 8,
+      "ivStamina": 10
     },
     "league": 1500,
     "form": "shadow"
@@ -9660,9 +9660,9 @@
   {
     "name": "SWELLOW",
     "stats": {
-      "ivAttack": 0,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 11,
+      "ivDefense": 11,
+      "ivStamina": 10
     },
     "league": 8000,
     "form": "shadow"
@@ -20433,8 +20433,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "TYRUNT",
     "stats": {
@@ -20443,8 +20442,7 @@
       "ivStamina": 14
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "TYRANTRUM",
     "stats": {
@@ -20453,8 +20451,7 @@
       "ivStamina": 5
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "TYRANTRUM",
     "stats": {
@@ -20463,8 +20460,7 @@
       "ivStamina": 15
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "TYRANTRUM",
     "stats": {
@@ -20473,8 +20469,47 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "TYRUNT",
+    "stats": {
+      "ivAttack": 13,
+      "ivDefense": 3,
+      "ivStamina": 14
+    },
+    "league": 500,
+    "form": "shadow"
+  },
+  {
+    "name": "TYRANTRUM",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 11,
+      "ivStamina": 2
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
+    "name": "TYRANTRUM",
+    "stats": {
+      "ivAttack": 11,
+      "ivDefense": 7,
+      "ivStamina": 6
+    },
+    "league": 2500,
+    "form": "shadow"
+  },
+  {
+    "name": "TYRANTRUM",
+    "stats": {
+      "ivAttack": 11,
+      "ivDefense": 10,
+      "ivStamina": 13
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
   {
     "name": "TROPIUS",
     "stats": {
@@ -23899,6 +23934,118 @@
       "ivStamina": 0
     },
     "league": 8000
+  },
+  {
+    "name": "WATTREL",
+    "stats": {
+      "ivAttack": 1,
+      "ivDefense": 15,
+      "ivStamina": 15
+    },
+    "league": 500
+  },
+  {
+    "name": "KILOWATTREL",
+    "stats": {
+      "ivAttack": 5,
+      "ivDefense": 10,
+      "ivStamina": 11
+    },
+    "league": 1500
+  },
+  {
+    "name": "KILOWATTREL",
+    "stats": {
+      "ivAttack": 2,
+      "ivDefense": 15,
+      "ivStamina": 11
+    },
+    "league": 2500
+  },
+  {
+    "name": "KILOWATTREL",
+    "stats": {
+      "ivAttack": 13,
+      "ivDefense": 15,
+      "ivStamina": 14
+    },
+    "league": 8000
+  },
+  {
+    "name": "TENTACOOL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
+  {
+    "name": "TENTACRUEL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 1500
+  },
+  {
+    "name": "TENTACRUEL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 2500
+  },
+  {
+    "name": "TENTACRUEL",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 8000
+  },
+  {
+    "name": "TENTACOOL",
+    "stats": {
+      "ivAttack": 5,
+      "ivDefense": 7,
+      "ivStamina": 13
+    },
+    "league": 500,
+    "form": "shadow"
+  },
+  {
+    "name": "TENTACRUEL",
+    "stats": {
+      "ivAttack": 5,
+      "ivDefense": 15,
+      "ivStamina": 5
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
+    "name": "TENTACRUEL",
+    "stats": {
+      "ivAttack": 4,
+      "ivDefense": 12,
+      "ivStamina": 4
+    },
+    "league": 2500,
+    "form": "shadow"
+  },
+  {
+    "name": "TENTACRUEL",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 15,
+      "ivStamina": 14
+    },
+    "league": 8000,
+    "form": "shadow"
   }
   ],
   "version": 0
