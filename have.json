@@ -9532,9 +9532,9 @@
   {
     "name": "HITMONLEE",
     "stats": {
-      "ivAttack": 7,
-      "ivDefense": 9,
-      "ivStamina": 13
+      "ivAttack": 4,
+      "ivDefense": 12,
+      "ivStamina": 15
     },
     "league": 1500
   }
@@ -9542,9 +9542,9 @@
   {
     "name": "HITMONLEE",
     "stats": {
-      "ivAttack": 4,
-      "ivDefense": 12,
-      "ivStamina": 13
+      "ivAttack": 3,
+      "ivDefense": 15,
+      "ivStamina": 15
     },
     "league": 2500
   }
