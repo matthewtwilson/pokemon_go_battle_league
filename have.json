@@ -5907,8 +5907,7 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "BOLDORE",
     "stats": {
@@ -5917,8 +5916,7 @@
       "ivStamina": 10
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "GIGALITH",
     "stats": {
@@ -5927,8 +5925,7 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "GIGALITH",
     "stats": {
@@ -5937,8 +5934,7 @@
       "ivStamina": 12
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "GIGALITH",
     "stats": {
@@ -5947,8 +5943,107 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "ROGGENROLA",
+    "stats": {
+      "ivAttack": 1,
+      "ivDefense": 9,
+      "ivStamina": 6
+    },
+    "league": 500,
+    "form": "shadow"
+  },
+  {
+    "name": "BOLDORE",
+    "stats": {
+      "ivAttack": 10,
+      "ivDefense": 14,
+      "ivStamina": 10
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
+    "name": "GIGALITH",
+    "stats": {
+      "ivAttack": 9,
+      "ivDefense": 9,
+      "ivStamina": 11
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
+    "name": "GIGALITH",
+    "stats": {
+      "ivAttack": 3,
+      "ivDefense": 14,
+      "ivStamina": 9
+    },
+    "league": 2500,
+    "form": "shadow"
+  },
+  {
+    "name": "GIGALITH",
+    "stats": {
+      "ivAttack": 11,
+      "ivDefense": 15,
+      "ivStamina": 5
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
+  {
+    "name": "GIGALITH",
+    "stats": {
+      "ivAttack": 6,
+      "ivDefense": 9,
+      "ivStamina": 9
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
+  {
+    "name": "GIGALITH",
+    "stats": {
+      "ivAttack": 7,
+      "ivDefense": 9,
+      "ivStamina": 5
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
+  {
+    "name": "GIGALITH",
+    "stats": {
+      "ivAttack": 8,
+      "ivDefense": 6,
+      "ivStamina": 6
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
+  {
+    "name": "GIGALITH",
+    "stats": {
+      "ivAttack": 2,
+      "ivDefense": 14,
+      "ivStamina": 1
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
+  {
+    "name": "GIGALITH",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
   {
     "name": "RAICHU_ALOLA",
     "stats": {
