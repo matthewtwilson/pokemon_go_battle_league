@@ -24141,6 +24141,51 @@
     },
     "league": 8000,
     "form": "shadow"
+  },
+  {
+    "name": "LARVESTA",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
+  {
+    "name": "LARVESTA",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 1500
+  },
+  {
+    "name": "VOLCARONA",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 1500
+  },
+  {
+    "name": "VOLCARONA",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 2500
+  },
+  {
+    "name": "VOLCARONA",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 8000
   }
   ],
   "version": 0
