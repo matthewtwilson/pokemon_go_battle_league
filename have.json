@@ -23427,9 +23427,9 @@
   {
     "name": "CINDERACE",
     "stats": {
-      "ivAttack": 0,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 9,
+      "ivDefense": 10,
+      "ivStamina": 14
     },
     "league": 8000
   },
