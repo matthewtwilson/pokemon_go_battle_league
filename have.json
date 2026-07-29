@@ -9995,9 +9995,9 @@
   {
     "name": "STARLY",
     "stats": {
-      "ivAttack": 4,
-      "ivDefense": 12,
-      "ivStamina": 8
+      "ivAttack": 1,
+      "ivDefense": 11,
+      "ivStamina": 5
     },
     "league": 500
   }
