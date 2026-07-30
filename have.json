@@ -20964,6 +20964,15 @@
     "league": 8000
   },
   {
+    "name": "WIMPOD",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
+  {
     "name": "GOLISOPOD",
     "stats": {
       "ivAttack": 1,
@@ -20984,9 +20993,54 @@
   {
     "name": "GOLISOPOD",
     "stats": {
+      "ivAttack": 15,
+      "ivDefense": 15,
+      "ivStamina": 14
+    },
+    "league": 8000
+  },
+  {
+    "name": "GOLISOPOD",
+    "stats": {
       "ivAttack": 14,
       "ivDefense": 14,
       "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "GOLISOPOD",
+    "stats": {
+      "ivAttack": 12,
+      "ivDefense": 13,
+      "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "GOLISOPOD",
+    "stats": {
+      "ivAttack": 12,
+      "ivDefense": 14,
+      "ivStamina": 14
+    },
+    "league": 8000
+  },
+  {
+    "name": "GOLISOPOD",
+    "stats": {
+      "ivAttack": 11,
+      "ivDefense": 13,
+      "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "GOLISOPOD",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 15,
+      "ivStamina": 10
     },
     "league": 8000
   },
