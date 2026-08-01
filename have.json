@@ -12999,6 +12999,15 @@
     "league": 8000
   },
   {
+    "name": "BUNNELBY",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 15,
+      "ivStamina": 12
+    },
+    "league": 500
+  },
+  {
     "name": "DIGGERSBY",
     "stats": {
       "ivAttack": 1,
@@ -13013,6 +13022,24 @@
       "ivAttack": 15,
       "ivDefense": 15,
       "ivStamina": 13
+    },
+    "league": 8000
+  },
+  {
+    "name": "DIGGERSBY",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 15,
+      "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "DIGGERSBY",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 13,
+      "ivStamina": 14
     },
     "league": 8000
   },
@@ -22376,6 +22403,51 @@
     "league": 8000
   },
   {
+    "name": "SHIINOTIC",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 13,
+      "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "SHIINOTIC",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 12,
+      "ivStamina": 13
+    },
+    "league": 8000
+  },
+  {
+    "name": "SHIINOTIC",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 13,
+      "ivStamina": 13
+    },
+    "league": 8000
+  },
+  {
+    "name": "SHIINOTIC",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 14,
+      "ivStamina": 12
+    },
+    "league": 8000
+  },
+  {
+    "name": "SHIINOTIC",
+    "stats": {
+      "ivAttack": 11,
+      "ivDefense": 14,
+      "ivStamina": 13
+    },
+    "league": 8000
+  },
+  {
     "name": "TERRAKION",
     "stats": {
       "ivAttack": 15,
@@ -23021,8 +23093,8 @@
   {
     "name": "BOUNSWEET",
     "stats": {
-      "ivAttack": 13,
-      "ivDefense": 13,
+      "ivAttack": 12,
+      "ivDefense": 15,
       "ivStamina": 15
     },
     "league": 500
@@ -23030,9 +23102,9 @@
   {
     "name": "TSAREENA",
     "stats": {
-      "ivAttack": 4,
-      "ivDefense": 9,
-      "ivStamina": 2
+      "ivAttack": 0,
+      "ivDefense": 12,
+      "ivStamina": 5
     },
     "league": 1500
   },
@@ -23051,6 +23123,51 @@
       "ivAttack": 15,
       "ivDefense": 15,
       "ivStamina": 14
+    },
+    "league": 8000
+  },
+  {
+    "name": "TSAREENA",
+    "stats": {
+      "ivAttack": 13,
+      "ivDefense": 14,
+      "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "TSAREENA",
+    "stats": {
+      "ivAttack": 13,
+      "ivDefense": 13,
+      "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "TSAREENA",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 14,
+      "ivStamina": 13
+    },
+    "league": 8000
+  },
+  {
+    "name": "TSAREENA",
+    "stats": {
+      "ivAttack": 13,
+      "ivDefense": 14,
+      "ivStamina": 10
+    },
+    "league": 8000
+  },
+  {
+    "name": "TSAREENA",
+    "stats": {
+      "ivAttack": 10,
+      "ivDefense": 9,
+      "ivStamina": 12
     },
     "league": 8000
   },
@@ -24098,17 +24215,17 @@
   {
     "name": "NICKIT",
     "stats": {
-      "ivAttack": 1,
-      "ivDefense": 13,
-      "ivStamina": 13
+      "ivAttack": 0,
+      "ivDefense": 11,
+      "ivStamina": 10
     },
     "league": 500
   },
   {
     "name": "THIEVUL",
     "stats": {
-      "ivAttack": 4,
-      "ivDefense": 11,
+      "ivAttack": 0,
+      "ivDefense": 12,
       "ivStamina": 13
     },
     "league": 1500
@@ -24783,6 +24900,96 @@
       "ivAttack": 15,
       "ivDefense": 11,
       "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "IMPIDIMP",
+    "stats": {
+      "ivAttack": 2,
+      "ivDefense": 11,
+      "ivStamina": 13
+    },
+    "league": 500
+  },
+  {
+    "name": "MORGREM",
+    "stats": {
+      "ivAttack": 12,
+      "ivDefense": 12,
+      "ivStamina": 13
+    },
+    "league": 1500
+  },
+  {
+    "name": "GRIMMSNARL",
+    "stats": {
+      "ivAttack": 11,
+      "ivDefense": 12,
+      "ivStamina": 12
+    },
+    "league": 1500
+  },
+  {
+    "name": "GRIMMSNARL",
+    "stats": {
+      "ivAttack": 11,
+      "ivDefense": 15,
+      "ivStamina": 13
+    },
+    "league": 2500
+  },
+  {
+    "name": "GRIMMSNARL",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 13,
+      "ivStamina": 14
+    },
+    "league": 8000
+  },
+  {
+    "name": "GRIMMSNARL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 13,
+      "ivStamina": 13
+    },
+    "league": 8000
+  },
+  {
+    "name": "GRIMMSNARL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 11,
+      "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "GRIMMSNARL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 14,
+      "ivStamina": 11
+    },
+    "league": 8000
+  },
+  {
+    "name": "GRIMMSNARL",
+    "stats": {
+      "ivAttack": 12,
+      "ivDefense": 13,
+      "ivStamina": 13
+    },
+    "league": 8000
+  },
+  {
+    "name": "GRIMMSNARL",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 13,
+      "ivStamina": 10
     },
     "league": 8000
   }
