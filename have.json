@@ -2860,8 +2860,7 @@
       "ivStamina": 14
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "SKUNTANK",
     "stats": {
@@ -2870,8 +2869,7 @@
       "ivStamina": 15
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "SKUNTANK",
     "stats": {
@@ -2880,8 +2878,16 @@
       "ivStamina": 13
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "SKUNTANK",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 12,
+      "ivStamina": 15
+    },
+    "league": 8000
+  },
   {
     "name": "SKUNTANK",
     "stats": {
@@ -3671,6 +3677,46 @@
       "ivAttack": 15,
       "ivDefense": 15,
       "ivStamina": 14
+    },
+    "league": 8000
+  }
+  ,
+  {
+    "name": "BLASTOISE",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 14,
+      "ivStamina": 15
+    },
+    "league": 8000
+  }
+  ,
+  {
+    "name": "BLASTOISE",
+    "stats": {
+      "ivAttack": 12,
+      "ivDefense": 14,
+      "ivStamina": 14
+    },
+    "league": 8000
+  }
+  ,
+  {
+    "name": "BLASTOISE",
+    "stats": {
+      "ivAttack": 11,
+      "ivDefense": 15,
+      "ivStamina": 14
+    },
+    "league": 8000
+  }
+  ,
+  {
+    "name": "BLASTOISE",
+    "stats": {
+      "ivAttack": 11,
+      "ivDefense": 13,
+      "ivStamina": 15
     },
     "league": 8000
   }
@@ -23165,9 +23211,9 @@
   {
     "name": "TSAREENA",
     "stats": {
-      "ivAttack": 10,
-      "ivDefense": 9,
-      "ivStamina": 12
+      "ivAttack": 7,
+      "ivDefense": 13,
+      "ivStamina": 15
     },
     "league": 8000
   },
@@ -24461,9 +24507,9 @@
   {
     "name": "SKIDDO",
     "stats": {
-      "ivAttack": 9,
-      "ivDefense": 2,
-      "ivStamina": 13
+      "ivAttack": 3,
+      "ivDefense": 15,
+      "ivStamina": 7
     },
     "league": 500
   },
@@ -24915,18 +24961,18 @@
   {
     "name": "MORGREM",
     "stats": {
-      "ivAttack": 12,
+      "ivAttack": 11,
       "ivDefense": 12,
-      "ivStamina": 13
+      "ivStamina": 14
     },
     "league": 1500
   },
   {
     "name": "GRIMMSNARL",
     "stats": {
-      "ivAttack": 11,
+      "ivAttack": 10,
       "ivDefense": 12,
-      "ivStamina": 12
+      "ivStamina": 14
     },
     "league": 1500
   },
@@ -24942,9 +24988,27 @@
   {
     "name": "GRIMMSNARL",
     "stats": {
+      "ivAttack": 15,
+      "ivDefense": 15,
+      "ivStamina": 11
+    },
+    "league": 8000
+  },
+  {
+    "name": "GRIMMSNARL",
+    "stats": {
       "ivAttack": 14,
       "ivDefense": 13,
       "ivStamina": 14
+    },
+    "league": 8000
+  },
+  {
+    "name": "GRIMMSNARL",
+    "stats": {
+      "ivAttack": 12,
+      "ivDefense": 15,
+      "ivStamina": 13
     },
     "league": 8000
   },
@@ -24972,24 +25036,6 @@
       "ivAttack": 15,
       "ivDefense": 14,
       "ivStamina": 11
-    },
-    "league": 8000
-  },
-  {
-    "name": "GRIMMSNARL",
-    "stats": {
-      "ivAttack": 12,
-      "ivDefense": 13,
-      "ivStamina": 13
-    },
-    "league": 8000
-  },
-  {
-    "name": "GRIMMSNARL",
-    "stats": {
-      "ivAttack": 14,
-      "ivDefense": 13,
-      "ivStamina": 10
     },
     "league": 8000
   }
