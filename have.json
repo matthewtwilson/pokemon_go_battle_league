@@ -2305,9 +2305,9 @@
   {
     "name": "NINETALES",
     "stats": {
-      "ivAttack": 4,
-      "ivDefense": 13,
-      "ivStamina": 15
+      "ivAttack": 1,
+      "ivDefense": 15,
+      "ivStamina": 11
     },
     "league": 1500,
     "form": "halloween"
