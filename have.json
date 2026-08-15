@@ -21175,8 +21175,7 @@
       "ivStamina": 14
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "AXEW",
     "stats": {
@@ -21185,8 +21184,7 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "FRAXURE",
     "stats": {
@@ -21195,8 +21193,7 @@
       "ivStamina": 14
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "FRAXURE",
     "stats": {
@@ -21205,8 +21202,7 @@
       "ivStamina": 11
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "HAXORUS",
     "stats": {
@@ -21215,8 +21211,7 @@
       "ivStamina": 14
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "HAXORUS",
     "stats": {
@@ -21225,8 +21220,7 @@
       "ivStamina": 15
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "HAXORUS",
     "stats": {
@@ -21235,8 +21229,67 @@
       "ivStamina": 12
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "AXEW",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 3,
+      "ivStamina": 10
+    },
+    "league": 500,
+	"form": "shadow"
+  },
+  {
+    "name": "FRAXURE",
+    "stats": {
+      "ivAttack": 5,
+      "ivDefense": 10,
+      "ivStamina": 1
+    },
+    "league": 1500,
+	"form": "shadow"
+  },
+  {
+    "name": "HAXORUS",
+    "stats": {
+      "ivAttack": 3,
+      "ivDefense": 13,
+      "ivStamina": 6
+    },
+    "league": 1500,
+	"form": "shadow"
+  },
+  {
+    "name": "HAXORUS",
+    "stats": {
+      "ivAttack": 4,
+      "ivDefense": 11,
+      "ivStamina": 5
+    },
+    "league": 2500,
+	"form": "shadow"
+  },
+  {
+    "name": "HAXORUS",
+    "stats": {
+      "ivAttack": 3,
+      "ivDefense": 4,
+      "ivStamina": 2
+    },
+    "league": 8000,
+	"form": "shadow"
+  },
+  {
+    "name": "HAXORUS",
+    "stats": {
+      "ivAttack": 4,
+      "ivDefense": 0,
+      "ivStamina": 1
+    },
+    "league": 8000,
+	"form": "shadow"
+  },
   {
     "name": "ROCKRUFF",
     "stats": {
