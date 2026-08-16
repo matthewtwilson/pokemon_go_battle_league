@@ -16138,6 +16138,76 @@
     "league": 8000
   },
   {
+    "name": "DEINO",
+    "stats": {
+      "ivAttack": 7,
+      "ivDefense": 14,
+      "ivStamina": 8
+    },
+    "league": 500,
+    "form": "shadow"
+  },
+  {
+    "name": "ZWEILOUS",
+    "stats": {
+      "ivAttack": 9,
+      "ivDefense": 12,
+      "ivStamina": 13
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
+    "name": "HYDREIGON",
+    "stats": {
+      "ivAttack": 6,
+      "ivDefense": 14,
+      "ivStamina": 15
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
+    "name": "HYDREIGON",
+    "stats": {
+      "ivAttack": 11,
+      "ivDefense": 6,
+      "ivStamina": 7
+    },
+    "league": 2500,
+    "form": "shadow"
+  },
+  {
+    "name": "HYDREIGON",
+    "stats": {
+      "ivAttack": 10,
+      "ivDefense": 13,
+      "ivStamina": 2
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
+  {
+    "name": "HYDREIGON",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 4
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
+  {
+    "name": "HYDREIGON",
+    "stats": {
+      "ivAttack": 2,
+      "ivDefense": 2,
+      "ivStamina": 3
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
+  {
     "name": "BASCULIN",
     "stats": {
       "ivAttack": 2,
