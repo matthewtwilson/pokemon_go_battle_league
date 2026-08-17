@@ -9834,9 +9834,9 @@
   {
     "name": "TAILLOW",
     "stats": {
-      "ivAttack": 1,
+      "ivAttack": 4,
       "ivDefense": 14,
-      "ivStamina": 7
+      "ivStamina": 11
     },
     "league": 500,
     "form": "shadow"
@@ -9844,9 +9844,9 @@
   {
     "name": "SWELLOW",
     "stats": {
-      "ivAttack": 3,
-      "ivDefense": 8,
-      "ivStamina": 10
+      "ivAttack": 1,
+      "ivDefense": 14,
+      "ivStamina": 7
     },
     "league": 1500,
     "form": "shadow"
