@@ -2980,8 +2980,8 @@
     "name": "WYRDEER",
     "stats": {
       "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivDefense": 10,
+      "ivStamina": 13
     },
     "league": 1500
   },
