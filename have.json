@@ -21109,9 +21109,9 @@
   {
     "name": "WIMPOD",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 8,
+      "ivDefense": 10,
+      "ivStamina": 11
     },
     "league": 500
   },
