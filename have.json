@@ -4757,6 +4757,15 @@
     "league": 8000
   },
   {
+    "name": "GOLDEEN",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
+  {
     "name": "SEAKING",
     "stats": {
       "ivAttack": 0,
@@ -4764,8 +4773,7 @@
       "ivStamina": 12
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "SEAKING",
     "stats": {
@@ -21154,6 +21162,15 @@
   {
     "name": "GOLISOPOD",
     "stats": {
+      "ivAttack": 14,
+      "ivDefense": 11,
+      "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "GOLISOPOD",
+    "stats": {
       "ivAttack": 12,
       "ivDefense": 13,
       "ivStamina": 15
@@ -21175,15 +21192,6 @@
       "ivAttack": 11,
       "ivDefense": 13,
       "ivStamina": 15
-    },
-    "league": 8000
-  },
-  {
-    "name": "GOLISOPOD",
-    "stats": {
-      "ivAttack": 14,
-      "ivDefense": 15,
-      "ivStamina": 10
     },
     "league": 8000
   },
@@ -25222,6 +25230,78 @@
       "ivAttack": 13,
       "ivDefense": 14,
       "ivStamina": 14
+    },
+    "league": 8000
+  },
+  {
+    "name": "CLAMPERL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
+  {
+    "name": "HUNTAIL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 1500
+  },
+  {
+    "name": "HUNTAIL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 2500
+  },
+  {
+    "name": "HUNTAIL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 15,
+      "ivStamina": 14
+    },
+    "league": 8000
+  },
+  {
+    "name": "HUNTAIL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 15,
+      "ivStamina": 14
+    },
+    "league": 8000
+  },
+  {
+    "name": "GOREBYSS",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 1500
+  },
+  {
+    "name": "GOREBYSS",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 2500
+  },
+  {
+    "name": "GOREBYSS",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
     },
     "league": 8000
   }
