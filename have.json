@@ -13209,9 +13209,9 @@
   {
     "name": "WAILORD",
     "stats": {
-      "ivAttack": 2,
-      "ivDefense": 9,
-      "ivStamina": 13
+      "ivAttack": 5,
+      "ivDefense": 14,
+      "ivStamina": 12
     },
     "league": 1500
   }
