@@ -7329,6 +7329,16 @@
   }
   ,
   {
+    "name": "VOLTORB",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  }
+  ,
+  {
     "name": "ELECTRODE",
     "stats": {
       "ivAttack": 1,
@@ -7346,6 +7356,17 @@
       "ivStamina": 15
     },
     "league": 8000
+  }
+  ,
+  {
+    "name": "VOLTORB",
+    "stats": {
+      "ivAttack": 6,
+      "ivDefense": 11,
+      "ivStamina": 3
+    },
+    "league": 500,
+    "form": "shadow"
   }
   ,
   {
@@ -7368,6 +7389,16 @@
     },
     "league": 8000,
     "form": "shadow"
+  }
+  ,
+  {
+    "name": "VOLTORB_HISUIAN",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 14,
+      "ivStamina": 10
+    },
+    "league": 500
   }
   ,
   {
