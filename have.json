@@ -8390,6 +8390,16 @@
   }
   ,
   {
+    "name": "PSYDUCK",
+    "stats": {
+      "ivAttack": 1,
+      "ivDefense": 15,
+      "ivStamina": 15
+    },
+    "league": 500
+  }
+  ,
+  {
     "name": "GOLDUCK",
     "stats": {
       "ivAttack": 1,
@@ -25331,6 +25341,51 @@
     "name": "GOREBYSS",
     "stats": {
       "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 8000
+  },
+  {
+    "name": "HONEDGE",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
+  {
+    "name": "DOUBLADE",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 1500
+  },
+  {
+    "name": "AEGISLASH",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 1500
+  },
+  {
+    "name": "AEGISLASH",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 2500
+  },
+  {
+    "name": "AEGISLASH",
+    "stats": {
+      "ivAttack": 0,
       "ivDefense": 0,
       "ivStamina": 0
     },
