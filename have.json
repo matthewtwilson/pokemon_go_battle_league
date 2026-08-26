@@ -6351,8 +6351,16 @@
       "ivStamina": 14
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "VOLBEAT",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
   {
     "name": "VOLBEAT",
     "stats": {
@@ -6361,8 +6369,7 @@
       "ivStamina": 10
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "VOLBEAT",
     "stats": {
@@ -25358,9 +25365,18 @@
   {
     "name": "DOUBLADE",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 11,
+      "ivDefense": 11,
+      "ivStamina": 15
+    },
+    "league": 1500
+  },
+  {
+    "name": "AEGISLASH",
+    "stats": {
+      "ivAttack": 10,
+      "ivDefense": 11,
+      "ivStamina": 11
     },
     "league": 1500
   },
@@ -25368,26 +25384,26 @@
     "name": "AEGISLASH",
     "stats": {
       "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivDefense": 13,
+      "ivStamina": 13
     },
-    "league": 1500
+    "league": 8000
   },
   {
     "name": "AEGISLASH",
     "stats": {
       "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivDefense": 14,
+      "ivStamina": 12
     },
-    "league": 2500
+    "league": 8000
   },
   {
     "name": "AEGISLASH",
     "stats": {
-      "ivAttack": 0,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 15,
+      "ivDefense": 11,
+      "ivStamina": 12
     },
     "league": 8000
   }
