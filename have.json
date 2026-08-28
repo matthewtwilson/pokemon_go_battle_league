@@ -5805,28 +5805,16 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "SANDSHREW_ALOLA",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 15,
-      "ivStamina": 13
-    },
-    "league": 1500
-  }
-  ,
-  {
-    "name": "SANDSLASH_ALOLA",
-    "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 4,
+      "ivDefense": 12,
+      "ivStamina": 12
     },
     "league": 500
-  }
-  ,
+  },
   {
     "name": "SANDSLASH_ALOLA",
     "stats": {
@@ -5835,8 +5823,7 @@
       "ivStamina": 9
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "SANDSLASH_ALOLA",
     "stats": {
@@ -5845,8 +5832,7 @@
       "ivStamina": 9
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "SANDSLASH_ALOLA",
     "stats": {
@@ -5855,19 +5841,17 @@
       "ivStamina": 13
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "SANDSHREW_ALOLA",
     "stats": {
-      "ivAttack": 13,
-      "ivDefense": 13,
-      "ivStamina": 15
+      "ivAttack": 3,
+      "ivDefense": 15,
+      "ivStamina": 11
     },
-    "league": 1500,
+    "league": 500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "SANDSLASH_ALOLA",
     "stats": {
@@ -5877,19 +5861,17 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "SANDSLASH_ALOLA",
     "stats": {
-      "ivAttack": 5,
-      "ivDefense": 12,
-      "ivStamina": 12
+      "ivAttack": 3,
+      "ivDefense": 11,
+      "ivStamina": 10
     },
     "league": 2500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "SANDSLASH_ALOLA",
     "stats": {
