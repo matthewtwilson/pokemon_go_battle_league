@@ -17780,8 +17780,16 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "NUMEL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
   {
     "name": "CAMERUPT",
     "stats": {
@@ -17790,8 +17798,7 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "CAMERUPT",
     "stats": {
@@ -17800,8 +17807,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "CAMERUPT",
     "stats": {
@@ -17810,8 +17816,17 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "NUMEL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500,
+    "form": "shadow"
+  },
   {
     "name": "CAMERUPT",
     "stats": {
@@ -17821,8 +17836,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "CAMERUPT",
     "stats": {
@@ -17832,8 +17846,7 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "FARFETCHD",
     "stats": {
