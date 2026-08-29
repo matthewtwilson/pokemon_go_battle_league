@@ -24395,27 +24395,81 @@
   {
     "name": "ROOKIDEE",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 0,
+      "ivDefense": 15,
+      "ivStamina": 8
     },
     "league": 500
   },
   {
     "name": "CORVIKNIGHT",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 5,
+      "ivDefense": 9,
+      "ivStamina": 14
     },
     "league": 1500
   },
   {
     "name": "CORVIKNIGHT",
     "stats": {
-      "ivAttack": 0,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 2,
+      "ivDefense": 13,
+      "ivStamina": 15
+    },
+    "league": 2500
+  },
+  {
+    "name": "CORVIKNIGHT",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 15,
+      "ivStamina": 13
+    },
+    "league": 8000
+  },
+  {
+    "name": "CORVIKNIGHT",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 15,
+      "ivStamina": 14
+    },
+    "league": 8000
+  },
+  {
+    "name": "CORVIKNIGHT",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 12,
+      "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "CORVIKNIGHT",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 13,
+      "ivStamina": 14
+    },
+    "league": 8000
+  },
+  {
+    "name": "CORVIKNIGHT",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 14,
+      "ivStamina": 13
+    },
+    "league": 8000
+  },
+  {
+    "name": "CORVIKNIGHT",
+    "stats": {
+      "ivAttack": 12,
+      "ivDefense": 13,
+      "ivStamina": 14
     },
     "league": 8000
   },
