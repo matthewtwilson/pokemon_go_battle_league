@@ -3,13 +3,10 @@ import json
 import numpy as np
 import re
 
-if __name__ == "__main__":
-    with open('game_masters/latest/latest.json') as f:
-        master = json.load(f)
+def load_pokemon_data():
+    """Load have.json and build a pre-indexed lookup for O(1) access."""
     with open('have.json') as g:
         current = json.load(g)
-
-    # Pre-index 'have.json' data for O(1) lookups
     # Structure: { "PIKACHU": [entry1, entry2], ... }
     pokemon_lookup = {}
     for x in current['pokemon']:
@@ -17,6 +14,13 @@ if __name__ == "__main__":
         if name not in pokemon_lookup:
             pokemon_lookup[name] = []
         pokemon_lookup[name].append(x)
+    return pokemon_lookup
+
+
+if __name__ == "__main__":
+    with open('game_masters/latest/latest.json') as f:
+        master = json.load(f)
+    pokemon_lookup = load_pokemon_data()
 
     # load_from_data(data)
     multiplier = []
@@ -29,10 +33,14 @@ if __name__ == "__main__":
 
     while True:
 
-        entry = input('Pokemon name, type q to exit: ')
+        entry = input('Pokemon name, type q to exit, r to reload: ')
         # print(entry)
         if entry == 'q':
             break
+        if entry == 'r':
+            pokemon_lookup = load_pokemon_data()
+            print('Reloaded have.json')
+            continue
 
         entries = entry.split()
         # print(len(entries))
