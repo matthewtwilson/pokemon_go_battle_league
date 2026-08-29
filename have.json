@@ -11794,6 +11794,15 @@
     "league": 8000
   },
   {
+    "name": "MANKEY",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
+  {
     "name": "PRIMEAPE",
     "stats": {
       "ivAttack": 1,
