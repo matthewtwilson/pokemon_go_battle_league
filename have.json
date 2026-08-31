@@ -3499,8 +3499,16 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
+  {
+    "name": "FROAKIE",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
   {
     "name": "FROGADIER",
     "stats": {
@@ -3509,8 +3517,7 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "GRENINJA",
     "stats": {
@@ -3519,8 +3526,7 @@
       "ivStamina": 13
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "GRENINJA",
     "stats": {
@@ -3529,8 +3535,7 @@
       "ivStamina": 11
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "GRENINJA",
     "stats": {
@@ -3539,8 +3544,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "GRENINJA",
     "stats": {
@@ -3549,8 +3553,7 @@
       "ivStamina": 14
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "GRENINJA",
     "stats": {
@@ -3559,8 +3562,7 @@
       "ivStamina": 14
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "GRENINJA",
     "stats": {
@@ -3569,8 +3571,7 @@
       "ivStamina": 13
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "GRENINJA",
     "stats": {
@@ -3579,8 +3580,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "GRENINJA",
     "stats": {
@@ -3589,8 +3589,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "BRAIXEN",
     "stats": {
