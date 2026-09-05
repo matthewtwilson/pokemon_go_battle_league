@@ -60,13 +60,21 @@
   {
     "name": "SKARMORY",
     "stats": {
+      "ivAttack": 1,
+      "ivDefense": 15,
+      "ivStamina": 13
+    },
+    "league": 500
+  },
+  {
+    "name": "SKARMORY",
+    "stats": {
       "ivAttack": 0,
       "ivDefense": 14,
       "ivStamina": 13
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "SKARMORY",
     "stats": {
@@ -1383,16 +1391,25 @@
   {
     "name": "TORTERRA",
     "stats": {
-      "ivAttack": 0,
-      "ivDefense": 5,
-      "ivStamina": 13
+      "ivAttack": 2,
+      "ivDefense": 13,
+      "ivStamina": 14
     },
     "league": 2500
   },
   {
     "name": "TORTERRA",
     "stats": {
-      "ivAttack": 14,
+      "ivAttack": 15,
+      "ivDefense": 14,
+      "ivStamina": 15
+    },
+    "league": 8000
+  },
+  {
+    "name": "TORTERRA",
+    "stats": {
+      "ivAttack": 15,
       "ivDefense": 15,
       "ivStamina": 14
     },
@@ -3317,9 +3334,9 @@
   {
     "name": "VENIPEDE",
     "stats": {
-      "ivAttack": 8,
-      "ivDefense": 15,
-      "ivStamina": 15
+      "ivAttack": 3,
+      "ivDefense": 12,
+      "ivStamina": 11
     },
     "league": 500
   }
@@ -3591,6 +3608,15 @@
     "league": 8000
   },
   {
+    "name": "FENNEKIN",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
+  {
     "name": "BRAIXEN",
     "stats": {
       "ivAttack": 5,
@@ -3598,8 +3624,7 @@
       "ivStamina": 12
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "DELPHOX",
     "stats": {
@@ -9689,7 +9714,7 @@
     "name": "HITMONLEE",
     "stats": {
       "ivAttack": 15,
-      "ivDefense": 14,
+      "ivDefense": 15,
       "ivStamina": 13
     },
     "league": 8000
@@ -13676,8 +13701,16 @@
       "ivStamina": 12
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "TYMPOLE",
+    "stats": {
+      "ivAttack": 5,
+      "ivDefense": 13,
+      "ivStamina": 15
+    },
+    "league": 500
+  },
   {
     "name": "PALPITOAD",
     "stats": {
@@ -13686,18 +13719,16 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "SEISMITOAD",
     "stats": {
-      "ivAttack": 5,
-      "ivDefense": 13,
-      "ivStamina": 15
+      "ivAttack": 2,
+      "ivDefense": 15,
+      "ivStamina": 11
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "SEISMITOAD",
     "stats": {
@@ -13706,8 +13737,7 @@
       "ivStamina": 10
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "SEISMITOAD",
     "stats": {
@@ -13716,8 +13746,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "WATCHOG",
     "stats": {
@@ -17330,6 +17359,15 @@
     "league": 8000
   },
   {
+    "name": "VANILLITE",
+    "stats": {
+      "ivAttack": 3,
+      "ivDefense": 15,
+      "ivStamina": 13
+    },
+    "league": 500
+  },
+  {
     "name": "VANILLISH",
     "stats": {
       "ivAttack": 1,
@@ -17350,9 +17388,9 @@
   {
     "name": "VANILLUXE",
     "stats": {
-      "ivAttack": 3,
-      "ivDefense": 12,
-      "ivStamina": 14
+      "ivAttack": 0,
+      "ivDefense": 14,
+      "ivStamina": 11
     },
     "league": 2500
   },
@@ -18437,18 +18475,25 @@
       "ivStamina": 11
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "FALINKS",
     "stats": {
-      "ivAttack": 10,
-      "ivDefense": 12,
-      "ivStamina": 15
+      "ivAttack": 6,
+      "ivDefense": 10,
+      "ivStamina": 5
+    },
+    "league": 500
+  },
+  {
+    "name": "FALINKS",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 14,
+      "ivStamina": 7
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "FALINKS",
     "stats": {
@@ -24569,9 +24614,9 @@
   {
     "name": "VAROOM",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 14,
+      "ivDefense": 11,
+      "ivStamina": 14
     },
     "league": 500
   },
@@ -24596,9 +24641,9 @@
   {
     "name": "REVAVROOM",
     "stats": {
-      "ivAttack": 13,
+      "ivAttack": 15,
       "ivDefense": 15,
-      "ivStamina": 14
+      "ivStamina": 13
     },
     "league": 8000
   },
