@@ -3610,9 +3610,9 @@
   {
     "name": "FENNEKIN",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 7,
+      "ivDefense": 15,
+      "ivStamina": 8
     },
     "league": 500
   },
@@ -11918,8 +11918,16 @@
       "ivStamina": 14
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "CYNDAQUIL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
   {
     "name": "QUILAVA",
     "stats": {
@@ -11928,8 +11936,7 @@
       "ivStamina": 12
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "TYPHLOSION",
     "stats": {
@@ -11938,8 +11945,7 @@
       "ivStamina": 11
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "TYPHLOSION",
     "stats": {
@@ -11948,8 +11954,7 @@
       "ivStamina": 12
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "TYPHLOSION",
     "stats": {
@@ -11958,8 +11963,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "TYPHLOSION_HISUIAN",
     "stats": {
@@ -11968,8 +11972,7 @@
       "ivStamina": 0
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "TYPHLOSION_HISUIAN",
     "stats": {
@@ -11978,8 +11981,7 @@
       "ivStamina": 0
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "TYPHLOSION_HISUIAN",
     "stats": {
@@ -11988,8 +11990,7 @@
       "ivStamina": 0
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "QUILAVA",
     "stats": {
@@ -17200,9 +17201,9 @@
   {
     "name": "LINOONE",
     "stats": {
-      "ivAttack": 2,
-      "ivDefense": 14,
-      "ivStamina": 8
+      "ivAttack": 1,
+      "ivDefense": 15,
+      "ivStamina": 11
     },
     "league": 1500
   },
@@ -17210,7 +17211,7 @@
     "name": "LINOONE",
     "stats": {
       "ivAttack": 15,
-      "ivDefense": 13,
+      "ivDefense": 15,
       "ivStamina": 15
     },
     "league": 8000
@@ -17267,8 +17268,16 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
+  {
+    "name": "GIBLE",
+    "stats": {
+      "ivAttack": 10,
+      "ivDefense": 13,
+      "ivStamina": 15
+    },
+    "league": 500
+  },
   {
     "name": "GABITE",
     "stats": {
@@ -17277,8 +17286,7 @@
       "ivStamina": 11
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "GARCHOMP",
     "stats": {
@@ -17287,8 +17295,7 @@
       "ivStamina": 12
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "GARCHOMP",
     "stats": {
@@ -17297,8 +17304,7 @@
       "ivStamina": 12
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "GARCHOMP",
     "stats": {
@@ -25506,6 +25512,33 @@
       "ivAttack": 15,
       "ivDefense": 11,
       "ivStamina": 12
+    },
+    "league": 8000
+  },
+  {
+    "name": "FLAMIGO",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 14,
+      "ivStamina": 9
+    },
+    "league": 500
+  },
+  {
+    "name": "FLAMIGO",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 1500
+  },
+  {
+    "name": "FLAMIGO",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 0,
+      "ivStamina": 0
     },
     "league": 8000
   }
