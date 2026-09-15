@@ -1533,6 +1533,15 @@
     "form": "shadow"
   },
   {
+    "name": "TRUBBISH",
+    "stats": {
+      "ivAttack": 12,
+      "ivDefense": 15,
+      "ivStamina": 15
+    },
+    "league": 500
+  },
+  {
     "name": "GARBODOR",
     "stats": {
       "ivAttack": 0,
@@ -7344,9 +7353,9 @@
   {
     "name": "VOLTORB",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 9,
+      "ivDefense": 3,
+      "ivStamina": 13
     },
     "league": 500
   }
@@ -8694,9 +8703,9 @@
   {
     "name": "PIDGEY",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 3,
+      "ivDefense": 12,
+      "ivStamina": 13
     },
     "league": 500
   },
@@ -23449,6 +23458,15 @@
       "ivStamina": 15
     },
     "league": 8000
+  },
+  {
+    "name": "TURTONATOR",
+    "stats": {
+      "ivAttack": 3,
+      "ivDefense": 8,
+      "ivStamina": 1
+    },
+    "league": 500
   },
   {
     "name": "TURTONATOR",
