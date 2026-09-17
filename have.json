@@ -14756,6 +14756,16 @@
   {
     "name": "EMOLGA",
     "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  }
+  ,
+  {
+    "name": "EMOLGA",
+    "stats": {
       "ivAttack": 7,
       "ivDefense": 15,
       "ivStamina": 12
@@ -14766,9 +14776,19 @@
   {
     "name": "EMOLGA",
     "stats": {
-      "ivAttack": 14,
+      "ivAttack": 15,
       "ivDefense": 15,
       "ivStamina": 14
+    },
+    "league": 8000
+  }
+  ,
+  {
+    "name": "EMOLGA",
+    "stats": {
+      "ivAttack": 13,
+      "ivDefense": 15,
+      "ivStamina": 15
     },
     "league": 8000
   }
