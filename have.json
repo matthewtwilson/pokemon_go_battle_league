@@ -1466,6 +1466,15 @@
     "form": "shadow"
   },
   {
+    "name": "TRAPINCH",
+    "stats": {
+      "ivAttack": 7,
+      "ivDefense": 15,
+      "ivStamina": 7
+    },
+    "league": 500
+  },
+  {
     "name": "FLYGON",
     "stats": {
       "ivAttack": 3,
@@ -1491,6 +1500,16 @@
       "ivStamina": 15
     },
     "league": 8000
+  },
+  {
+    "name": "FLYGON",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 8000,
+    "form": "dynamax"
   },
   {
     "name": "TRAPINCH",
@@ -1549,8 +1568,7 @@
       "ivStamina": 10
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "GARBODOR",
     "stats": {
@@ -1559,8 +1577,7 @@
       "ivStamina": 15
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "GARBODOR",
     "stats": {
@@ -1569,8 +1586,58 @@
       "ivStamina": 14
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "GARBODOR",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 8000,
+    "form": "dynamax"
+  },
+  {
+    "name": "TRUBBISH",
+    "stats": {
+      "ivAttack": 5,
+      "ivDefense": 4,
+      "ivStamina": 8
+    },
+    "league": 500,
+    "form": "shadow"
+  },
+  {
+    "name": "GARBODOR",
+    "stats": {
+      "ivAttack": 1,
+      "ivDefense": 2,
+      "ivStamina": 10
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
+    "name": "GARBODOR",
+    "stats": {
+      "ivAttack": 13,
+      "ivDefense": 12,
+      "ivStamina": 4
+    },
+    "league": 2500,
+    "form": "shadow"
+  },
+  {
+    "name": "GARBODOR",
+    "stats": {
+      "ivAttack": 13,
+      "ivDefense": 0,
+      "ivStamina": 5
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
+
   {
     "name": "CROCONAW",
     "stats": {
@@ -3398,8 +3465,16 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "TREECKO",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
   {
     "name": "GROVYLE",
     "stats": {
@@ -3408,8 +3483,7 @@
       "ivStamina": 14
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "SCEPTILE",
     "stats": {
@@ -3418,8 +3492,7 @@
       "ivStamina": 9
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "SCEPTILE",
     "stats": {
@@ -3484,6 +3557,16 @@
     "league": 8000
   },
   {
+    "name": "TREECKO",
+    "stats": {
+      "ivAttack": 13,
+      "ivDefense": 13,
+      "ivStamina": 9
+    },
+    "league": 500,
+    "form": "shadow"
+  },
+  {
     "name": "GROVYLE",
     "stats": {
       "ivAttack": 11,
@@ -3492,8 +3575,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "SCEPTILE",
     "stats": {
@@ -3503,8 +3585,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "SCEPTILE",
     "stats": {
@@ -3514,8 +3595,7 @@
     },
     "league": 2500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "SCEPTILE",
     "stats": {
@@ -9588,9 +9668,9 @@
   {
     "name": "WEEZING_GALARIAN",
     "stats": {
-      "ivAttack": 10,
-      "ivDefense": 12,
-      "ivStamina": 10
+      "ivAttack": 1,
+      "ivDefense": 13,
+      "ivStamina": 11
     },
     "league": 1500
   }
@@ -14758,7 +14838,7 @@
     "stats": {
       "ivAttack": 15,
       "ivDefense": 0,
-      "ivStamina": 0
+      "ivStamina": 15
     },
     "league": 500
   }
@@ -18224,6 +18304,16 @@
   }
   ,
   {
+    "name": "PIDOVE",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  }
+  ,
+  {
     "name": "TRANQUILL",
     "stats": {
       "ivAttack": 5,
@@ -18251,6 +18341,16 @@
       "ivStamina": 12
     },
     "league": 2500
+  }
+  ,
+  {
+    "name": "UNFEZANT",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 14,
+      "ivStamina": 15
+    },
+    "league": 8000
   }
   ,
   {
@@ -18299,26 +18399,6 @@
       "ivAttack": 15,
       "ivDefense": 15,
       "ivStamina": 13
-    },
-    "league": 8000
-  }
-  ,
-  {
-    "name": "UNFEZANT",
-    "stats": {
-      "ivAttack": 15,
-      "ivDefense": 14,
-      "ivStamina": 14
-    },
-    "league": 8000
-  }
-  ,
-  {
-    "name": "UNFEZANT",
-    "stats": {
-      "ivAttack": 15,
-      "ivDefense": 14,
-      "ivStamina": 14
     },
     "league": 8000
   },
@@ -25129,9 +25209,9 @@
   {
     "name": "KILOWATTREL",
     "stats": {
-      "ivAttack": 5,
-      "ivDefense": 10,
-      "ivStamina": 11
+      "ivAttack": 1,
+      "ivDefense": 14,
+      "ivStamina": 5
     },
     "league": 1500
   },
@@ -25147,9 +25227,9 @@
   {
     "name": "KILOWATTREL",
     "stats": {
-      "ivAttack": 13,
-      "ivDefense": 15,
-      "ivStamina": 14
+      "ivAttack": 14,
+      "ivDefense": 14,
+      "ivStamina": 15
     },
     "league": 8000
   },
