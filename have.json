@@ -25019,36 +25019,36 @@
   {
     "name": "NACLI",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 10,
+      "ivDefense": 14,
+      "ivStamina": 15
     },
     "league": 500
   },
   {
     "name": "NACLSTACK",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 14,
+      "ivDefense": 12,
+      "ivStamina": 14
     },
     "league": 1500
   },
   {
     "name": "GARGANACL",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 1,
+      "ivDefense": 4,
+      "ivStamina": 1
     },
     "league": 1500
   },
   {
     "name": "GARGANACL",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
+      "ivAttack": 5,
+      "ivDefense": 10,
+      "ivStamina": 13
     },
     "league": 2500
   },
