@@ -25748,6 +25748,42 @@
       "ivStamina": 15
     },
     "league": 8000
+  },
+  {
+    "name": "TINKATINK",
+    "stats": {
+      "ivAttack": 1,
+      "ivDefense": 14,
+      "ivStamina": 13
+    },
+    "league": 500
+  },
+  {
+    "name": "TINKATON",
+    "stats": {
+      "ivAttack": 3,
+      "ivDefense": 14,
+      "ivStamina": 3
+    },
+    "league": 1500
+  },
+  {
+    "name": "TINKATON",
+    "stats": {
+      "ivAttack": 12,
+      "ivDefense": 14,
+      "ivStamina": 15
+    },
+    "league": 2500
+  },
+  {
+    "name": "TINKATON",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 15,
+      "ivStamina": 15
+    },
+    "league": 8000
   }
   ],
   "version": 0
