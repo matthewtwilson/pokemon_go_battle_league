@@ -17493,8 +17493,8 @@
   {
     "name": "VANILLITE",
     "stats": {
-      "ivAttack": 3,
-      "ivDefense": 15,
+      "ivAttack": 2,
+      "ivDefense": 13,
       "ivStamina": 13
     },
     "league": 500
