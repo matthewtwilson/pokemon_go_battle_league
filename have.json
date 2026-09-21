@@ -17316,6 +17316,15 @@
     "league": 8000
   },
   {
+    "name": "ZIGZAGOON",
+    "stats": {
+      "ivAttack": 5,
+      "ivDefense": 13,
+      "ivStamina": 10
+    },
+    "league": 500
+  },
+  {
     "name": "LINOONE",
     "stats": {
       "ivAttack": 1,
@@ -25761,9 +25770,9 @@
   {
     "name": "TINKATON",
     "stats": {
-      "ivAttack": 3,
+      "ivAttack": 11,
       "ivDefense": 14,
-      "ivStamina": 3
+      "ivStamina": 14
     },
     "league": 1500
   },
