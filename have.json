@@ -25236,9 +25236,9 @@
   {
     "name": "KILOWATTREL",
     "stats": {
-      "ivAttack": 1,
-      "ivDefense": 14,
-      "ivStamina": 5
+      "ivAttack": 0,
+      "ivDefense": 12,
+      "ivStamina": 9
     },
     "league": 1500
   },
