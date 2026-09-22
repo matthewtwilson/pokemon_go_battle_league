@@ -4675,6 +4675,16 @@
     "league": 8000
   },
   {
+    "name": "TORCHIC",
+    "stats": {
+      "ivAttack": 6,
+      "ivDefense": 13,
+      "ivStamina": 13
+    },
+    "league": 500,
+    "form": "shadow"
+  },
+  {
     "name": "COMBUSKEN",
     "stats": {
       "ivAttack": 12,
@@ -4707,8 +4717,8 @@
   {
     "name": "BLAZIKEN",
     "stats": {
-      "ivAttack": 12,
-      "ivDefense": 4,
+      "ivAttack": 15,
+      "ivDefense": 13,
       "ivStamina": 15
     },
     "league": 8000,
