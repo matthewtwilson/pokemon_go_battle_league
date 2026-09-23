@@ -25012,18 +25012,18 @@
   {
     "name": "TOEDSCRUEL",
     "stats": {
-      "ivAttack": 1,
-      "ivDefense": 4,
-      "ivStamina": 14
+      "ivAttack": 3,
+      "ivDefense": 0,
+      "ivStamina": 15
     },
     "league": 1500
   },
   {
     "name": "TOEDSCRUEL",
     "stats": {
-      "ivAttack": 1,
-      "ivDefense": 8,
-      "ivStamina": 13
+      "ivAttack": 3,
+      "ivDefense": 10,
+      "ivStamina": 15
     },
     "league": 2500
   },
