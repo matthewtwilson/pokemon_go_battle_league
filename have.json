@@ -15575,8 +15575,7 @@
       "ivStamina": 12
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "TANGELA",
     "stats": {
@@ -15585,8 +15584,7 @@
       "ivStamina": 9
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "TANGELA",
     "stats": {
@@ -15595,8 +15593,7 @@
       "ivStamina": 15
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "TANGROWTH",
     "stats": {
@@ -15605,8 +15602,7 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "TANGROWTH",
     "stats": {
@@ -15615,8 +15611,7 @@
       "ivStamina": 15
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "TANGROWTH",
     "stats": {
@@ -15625,8 +15620,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "TANGROWTH",
     "stats": {
@@ -15635,8 +15629,7 @@
       "ivStamina": 13
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "TANGELA",
     "stats": {
@@ -15646,19 +15639,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
-  {
-    "name": "TANGELA",
-    "stats": {
-      "ivAttack": 12,
-      "ivDefense": 10,
-      "ivStamina": 15
-    },
-    "league": 2500,
-    "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "TANGROWTH",
     "stats": {
@@ -15668,8 +15649,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "TANGROWTH",
     "stats": {
@@ -15679,14 +15659,13 @@
     },
     "league": 2500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "TANGROWTH",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 14,
-      "ivStamina": 4
+      "ivAttack": 12,
+      "ivDefense": 10,
+      "ivStamina": 15
     },
     "league": 8000,
     "form": "shadow"
