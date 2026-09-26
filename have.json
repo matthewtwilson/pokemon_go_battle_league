@@ -452,8 +452,7 @@
       "ivStamina": 13
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "PIGNITE",
     "stats": {
@@ -462,8 +461,7 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "EMBOAR",
     "stats": {
@@ -472,8 +470,7 @@
       "ivStamina": 9
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "EMBOAR",
     "stats": {
@@ -536,6 +533,56 @@
       "ivStamina": 14
     },
     "league": 8000
+  },
+  {
+    "name": "TEPIG",
+    "stats": {
+      "ivAttack": 5,
+      "ivDefense": 11,
+      "ivStamina": 15
+    },
+    "league": 500,
+    "form": "shadow"
+  },
+  {
+    "name": "PIGNITE",
+    "stats": {
+      "ivAttack": 13,
+      "ivDefense": 9,
+      "ivStamina": 11
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
+    "name": "EMBOAR",
+    "stats": {
+      "ivAttack": 7,
+      "ivDefense": 10,
+      "ivStamina": 13
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
+    "name": "EMBOAR",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 2500,
+    "form": "shadow"
+  },
+  {
+    "name": "EMBOAR",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 8000,
+    "form": "shadow"
   },
   {
     "name": "BRONZOR",
