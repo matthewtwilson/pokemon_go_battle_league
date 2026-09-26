@@ -14247,8 +14247,16 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "TIMBURR",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 500
+  },
   {
     "name": "GURDURR",
     "stats": {
@@ -14257,8 +14265,7 @@
       "ivStamina": 9
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "GURDURR",
     "stats": {
@@ -14267,8 +14274,7 @@
       "ivStamina": 13
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "CONKELDURR",
     "stats": {
@@ -14277,8 +14283,7 @@
       "ivStamina": 0
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "CONKELDURR",
     "stats": {
@@ -14287,8 +14292,7 @@
       "ivStamina": 15
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "CONKELDURR",
     "stats": {
@@ -14297,8 +14301,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "CONKELDURR",
     "stats": {
@@ -14307,8 +14310,7 @@
       "ivStamina": 14
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "CONKELDURR",
     "stats": {
@@ -14317,8 +14319,57 @@
       "ivStamina": 13
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "TIMBURR",
+    "stats": {
+      "ivAttack": 2,
+      "ivDefense": 6,
+      "ivStamina": 2
+    },
+    "league": 500,
+    "form": "shadow"
+  },
+  {
+    "name": "GURDURR",
+    "stats": {
+      "ivAttack": 10,
+      "ivDefense": 9,
+      "ivStamina": 8
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
+    "name": "CONKELDURR",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 12,
+      "ivStamina": 13
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
+    "name": "CONKELDURR",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 2500,
+    "form": "shadow"
+  },
+  {
+    "name": "CONKELDURR",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
   {
     "name": "SKRELP",
     "stats": {
