@@ -2463,6 +2463,16 @@
     "league": 8000
   },
   {
+    "name": "VULPIX_ALOLA",
+    "stats": {
+      "ivAttack": 7,
+      "ivDefense": 11,
+      "ivStamina": 6
+    },
+    "league": 1500,
+    "form": "shadow"
+  },
+  {
     "name": "NINETALES_ALOLA",
     "stats": {
       "ivAttack": 2,
