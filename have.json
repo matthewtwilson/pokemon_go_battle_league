@@ -1846,11 +1846,11 @@
   {
     "name": "TEDDIURSA",
     "stats": {
-      "ivAttack": 13,
-      "ivDefense": 13,
+      "ivAttack": 7,
+      "ivDefense": 14,
       "ivStamina": 12
     },
-    "league": 1500,
+    "league": 500,
     "form": "shadow"
   },
   {
@@ -1886,9 +1886,9 @@
   {
     "name": "URSALUNA",
     "stats": {
-      "ivAttack": 10,
-      "ivDefense": 8,
-      "ivStamina": 15
+      "ivAttack": 7,
+      "ivDefense": 15,
+      "ivStamina": 13
     },
     "league": 1500,
     "form": "shadow"
@@ -1896,8 +1896,8 @@
   {
     "name": "URSALUNA",
     "stats": {
-      "ivAttack": 3,
-      "ivDefense": 6,
+      "ivAttack": 8,
+      "ivDefense": 15,
       "ivStamina": 8
     },
     "league": 2500,
@@ -1906,8 +1906,8 @@
   {
     "name": "URSALUNA",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 11,
+      "ivAttack": 13,
+      "ivDefense": 13,
       "ivStamina": 12
     },
     "league": 8000,
