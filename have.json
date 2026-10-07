@@ -237,11 +237,21 @@
     "league": 8000
   },
   {
+    "name": "SWABLU",
+    "stats": {
+      "ivAttack": 5,
+      "ivDefense": 12,
+      "ivStamina": 0
+    },
+    "league": 500,
+    "form": "shadow"
+  },
+  {
     "name": "ALTARIA",
     "stats": {
-      "ivAttack": 11,
-      "ivDefense": 3,
-      "ivStamina": 2
+      "ivAttack": 2,
+      "ivDefense": 8,
+      "ivStamina": 15
     },
     "league": 500,
     "form": "shadow"
@@ -259,9 +269,9 @@
   {
     "name": "ALTARIA",
     "stats": {
-      "ivAttack": 8,
-      "ivDefense": 9,
-      "ivStamina": 13
+      "ivAttack": 12,
+      "ivDefense": 11,
+      "ivStamina": 14
     },
     "league": 8000,
     "form": "shadow"
@@ -2589,8 +2599,7 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "SWINUB",
     "stats": {
@@ -2599,8 +2608,7 @@
       "ivStamina": 15
     },
     "league": 500
-  }
-  ,
+  },
   {
     "name": "PILOSWINE",
     "stats": {
@@ -2609,8 +2617,7 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "PILOSWINE",
     "stats": {
@@ -2619,8 +2626,7 @@
       "ivStamina": 15
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2629,8 +2635,7 @@
       "ivStamina": 11
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2639,8 +2644,7 @@
       "ivStamina": 15
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2649,8 +2653,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2659,8 +2662,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2669,8 +2671,7 @@
       "ivStamina": 14
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2679,8 +2680,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2689,8 +2689,7 @@
       "ivStamina": 13
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2699,8 +2698,7 @@
       "ivStamina": 13
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2709,8 +2707,17 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "SWINUB",
+    "stats": {
+      "ivAttack": 10,
+      "ivDefense": 14,
+      "ivStamina": 14
+    },
+    "league": 500,
+    "form": "shadow"
+  },
   {
     "name": "PILOSWINE",
     "stats": {
@@ -2720,8 +2727,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "PILOSWINE",
     "stats": {
@@ -2731,8 +2737,7 @@
     },
     "league": 2500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2742,8 +2747,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2767,14 +2771,33 @@
   {
     "name": "MAMOSWINE",
     "stats": {
+      "ivAttack": 12,
+      "ivDefense": 15,
+      "ivStamina": 10
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
+  {
+    "name": "MAMOSWINE",
+    "stats": {
+      "ivAttack": 14,
+      "ivDefense": 11,
+      "ivStamina": 12
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
+  {
+    "name": "MAMOSWINE",
+    "stats": {
       "ivAttack": 11,
       "ivDefense": 14,
       "ivStamina": 10
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2784,8 +2807,7 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "MAMOSWINE",
     "stats": {
@@ -2795,41 +2817,7 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
-  {
-    "name": "MAMOSWINE",
-    "stats": {
-      "ivAttack": 13,
-      "ivDefense": 15,
-      "ivStamina": 5
-    },
-    "league": 8000,
-    "form": "shadow"
-  }
-  ,
-  {
-    "name": "MAMOSWINE",
-    "stats": {
-      "ivAttack": 15,
-      "ivDefense": 8,
-      "ivStamina": 11
-    },
-    "league": 8000,
-    "form": "shadow"
-  }
-  ,
-  {
-    "name": "MAMOSWINE",
-    "stats": {
-      "ivAttack": 14,
-      "ivDefense": 9,
-      "ivStamina": 10
-    },
-    "league": 8000,
-    "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "SUNFLORA",
     "stats": {
