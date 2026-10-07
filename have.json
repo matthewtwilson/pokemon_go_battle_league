@@ -2522,11 +2522,11 @@
   {
     "name": "VULPIX_ALOLA",
     "stats": {
-      "ivAttack": 7,
-      "ivDefense": 11,
-      "ivStamina": 6
+      "ivAttack": 5,
+      "ivDefense": 15,
+      "ivStamina": 15
     },
-    "league": 1500,
+    "league": 500,
     "form": "shadow"
   },
   {
@@ -19968,8 +19968,7 @@
       "ivStamina": 12
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "ZEKROM",
     "stats": {
@@ -19978,8 +19977,7 @@
       "ivStamina": 13
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "ZEKROM",
     "stats": {
@@ -19988,8 +19986,7 @@
       "ivStamina": 11
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "ZEKROM",
     "stats": {
@@ -19998,8 +19995,7 @@
       "ivStamina": 11
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "ZEKROM",
     "stats": {
@@ -20008,8 +20004,7 @@
       "ivStamina": 10
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "ZEKROM",
     "stats": {
@@ -20018,8 +20013,17 @@
       "ivStamina": 10
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "ZEKROM",
+    "stats": {
+      "ivAttack": 13,
+      "ivDefense": 9,
+      "ivStamina": 6
+    },
+    "league": 8000,
+    "form": "shadow"
+  },
   {
     "name": "AVALUGG",
     "stats": {
