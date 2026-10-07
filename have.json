@@ -21413,9 +21413,9 @@
   {
     "name": "TYRANTRUM",
     "stats": {
-      "ivAttack": 11,
-      "ivDefense": 7,
-      "ivStamina": 6
+      "ivAttack": 8,
+      "ivDefense": 9,
+      "ivStamina": 8
     },
     "league": 2500,
     "form": "shadow"
