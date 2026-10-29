@@ -10633,18 +10633,16 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "YANMA",
     "stats": {
-      "ivAttack": 0,
+      "ivAttack": 1,
       "ivDefense": 14,
-      "ivStamina": 12
+      "ivStamina": 13
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "YANMEGA",
     "stats": {
@@ -10653,8 +10651,7 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "YANMEGA",
     "stats": {
@@ -10663,8 +10660,7 @@
       "ivStamina": 15
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "YANMEGA",
     "stats": {
@@ -10673,8 +10669,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "MINUN",
     "stats": {
@@ -22591,8 +22586,8 @@
   {
     "name": "PUMPKABOO_LARGE",
     "stats": {
-      "ivAttack": 8,
-      "ivDefense": 12,
+      "ivAttack": 13,
+      "ivDefense": 15,
       "ivStamina": 12
     },
     "league": 1500
@@ -22759,9 +22754,9 @@
   {
     "name": "GOURGEIST_LARGE",
     "stats": {
-      "ivAttack": 3,
-      "ivDefense": 14,
-      "ivStamina": 7
+      "ivAttack": 1,
+      "ivDefense": 13,
+      "ivStamina": 13
     },
     "league": 1500
   }
