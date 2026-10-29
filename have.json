@@ -3345,8 +3345,8 @@
     "name": "CROBAT",
     "stats": {
       "ivAttack": 13,
-      "ivDefense": 13,
-      "ivStamina": 5
+      "ivDefense": 15,
+      "ivStamina": 13
     },
     "league": 8000,
     "form": "halloween"
