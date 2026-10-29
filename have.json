@@ -848,8 +848,7 @@
     },
     "league": 8000,
     "form": "red hat"
-  }
-  ,
+  },
   {
     "name": "PIPLUP",
     "stats": {
@@ -859,8 +858,7 @@
     },
     "league": 8000,
     "form": "white hat"
-  }
-  ,
+  },
   {
     "name": "PIPLUP",
     "stats": {
@@ -870,19 +868,17 @@
     },
     "league": 500,
     "form": "halloween"
-  }
-  ,
+  },
   {
     "name": "PIPLUP",
     "stats": {
-      "ivAttack": 15,
-      "ivDefense": 14,
-      "ivStamina": 15
+      "ivAttack": 0,
+      "ivDefense": 0,
+      "ivStamina": 0
     },
     "league": 8000,
     "form": "halloween"
-  }
-  ,
+  },
   {
     "name": "PRINPLUP",
     "stats": {
@@ -891,8 +887,7 @@
       "ivStamina": 13
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "EMPOLEON",
     "stats": {
@@ -901,8 +896,7 @@
       "ivStamina": 13
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "EMPOLEON",
     "stats": {
@@ -911,8 +905,7 @@
       "ivStamina": 12
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "EMPOLEON",
     "stats": {
@@ -921,8 +914,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "EMPOLEON",
     "stats": {
@@ -931,8 +923,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "EMPOLEON",
     "stats": {
@@ -941,8 +932,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "MACHOKE",
     "stats": {
@@ -3314,8 +3304,7 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "GOLBAT",
     "stats": {
@@ -3324,8 +3313,7 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "CROBAT",
     "stats": {
@@ -3334,8 +3322,7 @@
       "ivStamina": 13
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "CROBAT",
     "stats": {
@@ -3344,8 +3331,7 @@
       "ivStamina": 14
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "CROBAT",
     "stats": {
@@ -3354,8 +3340,17 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "CROBAT",
+    "stats": {
+      "ivAttack": 13,
+      "ivDefense": 13,
+      "ivStamina": 5
+    },
+    "league": 8000,
+    "form": "halloween"
+  },
   {
     "name": "GOLBAT",
     "stats": {
@@ -3365,8 +3360,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "CROBAT",
     "stats": {
@@ -3376,8 +3370,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "CROBAT",
     "stats": {
@@ -3387,8 +3380,7 @@
     },
     "league": 2500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "CROBAT",
     "stats": {
@@ -3398,8 +3390,7 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "QWILFISH",
     "stats": {
@@ -14586,6 +14577,17 @@
   }
   ,
   {
+    "name": "NOIVERN",
+    "stats": {
+      "ivAttack": 0,
+      "ivDefense": 0,
+      "ivStamina": 0
+    },
+    "league": 8000,
+    "form": "halloween"
+  }
+  ,
+  {
     "name": "LIEPARD",
     "stats": {
       "ivAttack": 1,
@@ -15625,7 +15627,7 @@
       "ivDefense": 12,
       "ivStamina": 10
     },
-    "league": 1500,
+    "league": 500,
     "form": "shadow"
   },
   {
@@ -15651,8 +15653,8 @@
   {
     "name": "TANGROWTH",
     "stats": {
-      "ivAttack": 12,
-      "ivDefense": 10,
+      "ivAttack": 14,
+      "ivDefense": 12,
       "ivStamina": 15
     },
     "league": 8000,
@@ -22873,9 +22875,9 @@
   {
     "name": "ZORUA",
     "stats": {
-      "ivAttack": 1,
-      "ivDefense": 1,
-      "ivStamina": 8
+      "ivAttack": 8,
+      "ivDefense": 10,
+      "ivStamina": 12
     },
     "league": 500
   },
