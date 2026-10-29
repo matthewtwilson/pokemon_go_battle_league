@@ -4400,8 +4400,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "WEEPINBELL",
     "stats": {
@@ -4410,8 +4409,7 @@
       "ivStamina": 15
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "VICTREEBEL",
     "stats": {
@@ -4420,8 +4418,7 @@
       "ivStamina": 13
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "VICTREEBEL",
     "stats": {
@@ -4430,8 +4427,7 @@
       "ivStamina": 15
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "VICTREEBEL",
     "stats": {
@@ -4440,8 +4436,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "VICTREEBEL",
     "stats": {
@@ -4450,8 +4445,7 @@
       "ivStamina": 13
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "VICTREEBEL",
     "stats": {
@@ -4460,8 +4454,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "VICTREEBEL",
     "stats": {
@@ -4470,8 +4463,16 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "VICTREEBEL",
+    "stats": {
+      "ivAttack": 15,
+      "ivDefense": 14,
+      "ivStamina": 13
+    },
+    "league": 8000
+  },
   {
     "name": "VICTREEBEL",
     "stats": {
@@ -4480,8 +4481,7 @@
       "ivStamina": 14
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "WEEPINBELL",
     "stats": {
@@ -4491,8 +4491,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "VICTREEBEL",
     "stats": {
@@ -4502,8 +4501,7 @@
     },
     "league": 1500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "VICTREEBEL",
     "stats": {
@@ -4513,8 +4511,7 @@
     },
     "league": 2500,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "VICTREEBEL",
     "stats": {
@@ -4524,8 +4521,7 @@
     },
     "league": 8000,
     "form": "shadow"
-  }
-  ,
+  },
   {
     "name": "CINCCINO",
     "stats": {
