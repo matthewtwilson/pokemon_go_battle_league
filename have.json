@@ -17433,9 +17433,18 @@
   {
     "name": "ZIGZAGOON",
     "stats": {
-      "ivAttack": 5,
-      "ivDefense": 13,
-      "ivStamina": 10
+      "ivAttack": 10,
+      "ivDefense": 10,
+      "ivStamina": 11
+    },
+    "league": 500
+  },
+  {
+    "name": "ZIGZAGOON_GALARIAN",
+    "stats": {
+      "ivAttack": 10,
+      "ivDefense": 15,
+      "ivStamina": 14
     },
     "league": 500
   },
