@@ -4759,23 +4759,30 @@
   {
     "name": "THROH",
     "stats": {
-      "ivAttack": 5,
+      "ivAttack": 2,
       "ivDefense": 14,
-      "ivStamina": 13
+      "ivStamina": 3
     },
-    "league": 1500
-  }
-  ,
+    "league": 500
+  },
   {
     "name": "THROH",
     "stats": {
-      "ivAttack": 4,
-      "ivDefense": 9,
-      "ivStamina": 14
+      "ivAttack": 0,
+      "ivDefense": 15,
+      "ivStamina": 7
+    },
+    "league": 1500
+  },
+  {
+    "name": "THROH",
+    "stats": {
+      "ivAttack": 2,
+      "ivDefense": 13,
+      "ivStamina": 13
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "THROH",
     "stats": {
@@ -4784,8 +4791,7 @@
       "ivStamina": 14
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "SAWK",
     "stats": {
@@ -4814,28 +4820,34 @@
       "ivStamina": 11
     },
     "league": 8000
-  }
-  ,
+  },
+  {
+    "name": "TENTACOOL",
+    "stats": {
+      "ivAttack": 6,
+      "ivDefense": 13,
+      "ivStamina": 12
+    },
+    "league": 500
+  },
   {
     "name": "TENTACRUEL",
     "stats": {
-      "ivAttack": 13,
-      "ivDefense": 12,
-      "ivStamina": 5
+      "ivAttack": 0,
+      "ivDefense": 15,
+      "ivStamina": 7
     },
     "league": 1500
-  }
-  ,
+  },
   {
     "name": "TENTACRUEL",
     "stats": {
-      "ivAttack": 12,
-      "ivDefense": 15,
-      "ivStamina": 14
+      "ivAttack": 4,
+      "ivDefense": 12,
+      "ivStamina": 12
     },
     "league": 2500
-  }
-  ,
+  },
   {
     "name": "TENTACRUEL",
     "stats": {
@@ -4844,8 +4856,7 @@
       "ivStamina": 15
     },
     "league": 8000
-  }
-  ,
+  },
   {
     "name": "PAWNIARD",
     "stats": {
@@ -25429,42 +25440,6 @@
       "ivAttack": 14,
       "ivDefense": 14,
       "ivStamina": 15
-    },
-    "league": 8000
-  },
-  {
-    "name": "TENTACOOL",
-    "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
-    },
-    "league": 500
-  },
-  {
-    "name": "TENTACRUEL",
-    "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
-    },
-    "league": 1500
-  },
-  {
-    "name": "TENTACRUEL",
-    "stats": {
-      "ivAttack": 15,
-      "ivDefense": 0,
-      "ivStamina": 0
-    },
-    "league": 2500
-  },
-  {
-    "name": "TENTACRUEL",
-    "stats": {
-      "ivAttack": 0,
-      "ivDefense": 0,
-      "ivStamina": 0
     },
     "league": 8000
   },
